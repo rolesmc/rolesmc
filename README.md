@@ -1,10 +1,11 @@
 ## Hi there 👋
 -------------------------------------------------------------------------------------------------------
-I'm a full-stack developer who loves bringing ideas to life across the whole stack.
+I'm a full-stack developer who's based in Chicago!
 
-I spend a lot of my time on the frontend, using React and Next.js to build clean, interactive interfaces that people actually enjoy using.
+I mostly work on the frontend, using React and Next.js to build clean, interactive interfaces that people actually enjoy using, but I also enjoy backend work to build data pipelines!
 
-Behind the scenes, I keep things running smoothly with Node.js, Django, and Java. I also enjoy wrangling data, using Python (Pandas) and SQL to build reliable pipelines! Feel free to reach out!
+Feel free to reach out about any projects!
+
 -------------------------------------------------------------------------------------------------------
 **Tools & Tech**
   - React, Next.js
