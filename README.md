@@ -15,4 +15,4 @@ Feel free to reach out about any projects!
 **A Bit About Me**
   - 🐈‍⬛ One cat who's way cooler than me
   - ☕ Coffee and tea enthusiast
-  - ❤️ Red is my favorite colorr
+  - ❤️ Red is my favorite color
