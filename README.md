@@ -1,9 +1,10 @@
 ## Hi there 👋
 -------------------------------------------------------------------------------------------------------
-I'm a full-stack developer working on both frontend and backend applications.
-I mostly work on frontend stuff — React and Next.js for crafting clean, responsive user interfaces.
-I also build robust backend systems using Node.js, Django, and Java, alongside Python (Pandas) and SQL for data pipelines.
-I focus on bridging the gap between complex data processing and accessible design, creating things that work well and feel good to use.
+I'm a full-stack developer who loves bringing ideas to life across the whole stack.
+
+I spend a lot of my time on the frontend, using React and Next.js to build clean, interactive interfaces that people actually enjoy using.
+
+Behind the scenes, I keep things running smoothly with Node.js, Django, and Java. I also enjoy wrangling data, using Python (Pandas) and SQL to build reliable pipelines! Feel free to reach out!
 -------------------------------------------------------------------------------------------------------
 **Tools & Tech**
   - React, Next.js
@@ -14,5 +15,3 @@ I focus on bridging the gap between complex data processing and accessible desig
   - 🐈‍⬛ One cat who's way cooler than me
   - ☕ Coffee and tea enthusiast
   - ❤️ Red is my favorite color
-  - 
-Got a project idea or want to collaborate? Feel free to reach out.
